@@ -1,6 +1,6 @@
 # Stack Implementation Using `LifoQueue` (Max Size 7) 🔄
 
-This Python program demonstrates a stack implemented using the `LifoQueue` class from the `queue` module. It allows up to 7 elements, checks if the stack is full, and then prints the elements in reverse (LIFO) order.
+This Python program demonstrates a stack implemented using the `LifoQueue` class from the `queue` module. It allows up to 7 elements, checks if the stack is full, and then prints the elements in reverse (LIFO) order
 
 ## 🎯 Aim
 
